@@ -1,27 +1,26 @@
 //
-//  ViewController.m
+//  MainNavigationController.m
 //  Metering
 //
 //  Created by Sandra Guzmán Bautista on 17/07/15.
 //  Copyright (c) 2015 onikom. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "MainNavigationController.h"
 
-@interface ViewController ()
+@interface MainNavigationController ()
 
 @end
 
-@implementation ViewController
+@implementation MainNavigationController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
+
 
 @end

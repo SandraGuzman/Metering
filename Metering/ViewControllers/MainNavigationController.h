@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainNavigationController.h
 //  Metering
 //
 //  Created by Sandra Guzmán Bautista on 17/07/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainNavigationController : UINavigationController
 
 @end
-
